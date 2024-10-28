@@ -12,9 +12,11 @@
 
 <h3>Power BI Projects</h3>
 
-- <b>Austin Housing Insights </b>([Link](https://github.com/FinnBorchert/Data_Projects/blob/main/Austin_Hosing_Data_Insights.pbix))
-- <b>Kraken_coffee - Coffee Sales Analysis </b>([Link](https://github.com/FinnBorchert/Data_Projects/blob/main/Kraken_coffee%20-%20Coffee%20Sales%20Analysis.pbix))
-- <b>Market Research Dashboard </b>([Link](https://github.com/FinnBorchert/Data_Projects/blob/main/Market_Research_Dashboard.pbix))
+- <b>Austin Housing Insights </b>([Link](https://github.com/FinnBorchert/PowerBIProjects/blob/main/Austin_Hosing_Data_Insights.pbix))
+- <b>Kraken_coffee - Coffee Sales Analysis </b>([Link](https://github.com/FinnBorchert/PowerBIProjects/blob/main/Kraken_coffee%20-%20Coffee%20Sales%20Analysis.pbix))
+- <b>Market Research Dashboard </b>([Link]([https://github.com/FinnBorchert/PowerBIProjects/blob/main/Kraken_coffee%20-%20Coffee%20Sales%20Analysis.pbix]
+
+https://github.com/FinnBorchert/PowerBIProjects/blob/main/Market_Research_Dashboard.pbix
 
 <h3>Google Looker Studio</h3>
 
