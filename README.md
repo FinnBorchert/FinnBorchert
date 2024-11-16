@@ -16,9 +16,14 @@
 - <b>Kraken_coffee - Coffee Sales Analysis </b>([Link](https://github.com/FinnBorchert/PowerBIProjects/blob/main/Kraken_coffee%20-%20Coffee%20Sales%20Analysis.pbix))
 - <b>Market Research Dashboard </b>([Link](https://github.com/FinnBorchert/PowerBIProjects/blob/main/Market_Research_Dashboard.pbix))
 
+<h3>SQL Projects</h3>
+
+- <b>Data Manipulation Exercises (Case, Subqueries, CTEs, Window Function) </b>([Link](https://github.com/FinnBorchert/SQLDataCamp))
+
+
 <h3>Google Looker Studio</h3>
 
-- <b>Building a Dashboard with Google Looker Studio</b>([Link](https://github.com/FinnBorchert/Data_Projects/blob/main/Building_A_Dashboard_With_Google_Looker_Studio_-_IBM_Assignment.pdf))
+- <b>Building a Dashboard with Google Looker Studio</b> ([Link](https://github.com/FinnBorchert/Data_Projects/blob/main/Building_A_Dashboard_With_Google_Looker_Studio_-_IBM_Assignment.pdf))
 
 <h2> <p>&#128220; Data Certificates</p> </h2>
 
