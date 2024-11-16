@@ -7,8 +7,8 @@
 <h3>Python Projects</h3>
 
 - <b>Data Analyst Capstone Project: Wine Quality Analysis </b>([Link](https://github.com/FinnBorchert/Data_Projects/blob/main/Capstone%20Project%20Wine%20Quality%20Leon%20Finn%20Borchert.ipynb))
-- <b>Assignment IBM Extracting and Visualizing Stock Data </b>([Link](https://github.com/FinnBorchert/Data_Projects/blob/main/Assignment%20IBM%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb))
-- <b>Assignment IBM Data Analyst Visualization with Python </b>([Link](https://github.com/FinnBorchert/Data_Projects/blob/main/Assignment%20IBM%20Data%20Analyst%20Visualization%20with%20Python.ipynb))
+- <b>Assignment IBM Extracting and Visualizing Stock Data </b>([Link](https://github.com/FinnBorchert/IBM_Data_Analyst_Assignments/blob/main/Assignment%20IBM%20Extracting%20-%20Visualizing%20Stock%20Data.ipynb))
+- <b>Assignment IBM Data Analyst Visualization with Python </b>([Link](https://github.com/FinnBorchert/IBM_Data_Analyst_Assignments/blob/main/Assignment%20IBM%20Data%20Analyst%20-%20Visualization%20with%20Python.ipynb))
 
 <h3>Power BI Projects</h3>
 
