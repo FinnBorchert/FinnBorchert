@@ -18,7 +18,7 @@
 
 <h3>SQL Projects</h3>
 
-- <b>Data Manipulation Exercises (Case, Subqueries, CTEs, Window Function) </b>([Link](https://github.com/FinnBorchert/SQLDataCamp))
+- <b>Data Manipulation Exercises (Case Statements, Subqueries, CTEs, Window Functions) </b>([Link](https://github.com/FinnBorchert/SQLDataCamp))
 
 
 <h3>Google Looker Studio</h3>
