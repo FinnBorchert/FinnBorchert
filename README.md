@@ -19,6 +19,7 @@
 <h3>SQL Projects</h3>
 
 - <b>Data Manipulation Exercises (Case Statements, Subqueries, CTEs, Advanced Window Functions) </b>([Link](https://github.com/FinnBorchert/SQLDataCamp))
+- <b>SQL Bootcamp TechTFQ Assignments </b>([Link](https://github.com/FinnBorchert/SQL_Bootcamp_TechTFQ))
 
 
 <h3>Google Looker Studio</h3>
