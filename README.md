@@ -28,5 +28,6 @@
 
 <h2> <p>&#128220; Data Certificates</p> </h2>
 
-- <b>XDI Data Analyst Certificate </b>([Link](https://drive.google.com/file/d/1BWMW3tBa5S1sB-kl6ScnlzZQjklZh3-7/view?usp=sharing))
-- <b>IBM Data Analyst Certificate </b>([Link](https://drive.google.com/file/d/1xQJtKDCPZkKPkSKetCsYo4_Vf21u7lTP/view?usp=sharing))
+- <b>XDI Data Analyst Certificate </b>([Link](https://github.com/FinnBorchert/Data_Certificates/blob/main/XDi_Certified_Data_Analytics_24-284_Leon_Finn_Borchert.pdf))
+- <b>IBM Data Analyst Certificate </b>([Link](https://github.com/FinnBorchert/Data_Certificates/blob/main/Zeugnis%20IBM%20Data%20Analyst.pdf))
+- <b>SQL Online Bootcamp </b>([Link](https://github.com/FinnBorchert/Data_Certificates/blob/main/SQL%20certificate%20TechTFQ.pdf))
